@@ -256,21 +256,8 @@ export function WristbandStatus() {
                 </div>
               </div>
               
-              <div className="flex items-center gap-2">
-                <Activity className="w-4 h-4 text-green-500" />
-                <div>
-                  <p className="text-sm text-muted-foreground">Steps Today</p>
-                  <p className="font-semibold">{healthData.steps.toLocaleString()}</p>
-                </div>
-              </div>
               
-              <div className="flex items-center gap-2">
-                <Moon className="w-4 h-4 text-purple-500" />
-                <div>
-                  <p className="text-sm text-muted-foreground">Sleep Quality</p>
-                  <p className="font-semibold capitalize">{healthData.sleepQuality} ({healthData.sleepHours.toFixed(1)}h)</p>
-                </div>
-              </div>
+             
 
               <div className="flex items-center gap-2">
                 <Waves className="w-4 h-4 text-red-500" />
@@ -280,39 +267,8 @@ export function WristbandStatus() {
                 </div>
               </div>
 
-              <div className="flex items-center gap-2">
-                <Droplets className="w-4 h-4 text-blue-400" />
-                <div>
-                  <p className="text-sm text-muted-foreground">Hydration</p>
-                  <p className="font-semibold">{healthData.hydrationLevel}%</p>
-                </div>
-              </div>
-
-              <div className="flex items-center gap-2">
-                <Flame className="w-4 h-4 text-orange-500" />
-                <div>
-                  <p className="text-sm text-muted-foreground">Calories Burned</p>
-                  <p className="font-semibold">{healthData.caloriesBurned.toLocaleString()}</p>
-                </div>
-              </div>
-
-              <div className="flex items-center gap-2">
-                <TrendingUp className="w-4 h-4 text-green-600" />
-                <div>
-                  <p className="text-sm text-muted-foreground">Activity Level</p>
-                  <p className="font-semibold capitalize">{healthData.activityLevel}</p>
-                </div>
-              </div>
               
-              <div className="col-span-2 flex items-center justify-between">
-                <div className="flex items-center gap-2">
-                  <Zap className="w-4 h-4 text-yellow-500" />
-                  <span className="text-sm">Stress Level</span>
-                </div>
-                <Badge className={getStressColor(healthData.stressLevel)}>
-                  {healthData.stressLevel.toUpperCase()}
-                </Badge>
-              </div>
+        
               
               <div className="col-span-2 bg-gray-50 p-3 rounded-lg">
                 <p className="text-xs text-muted-foreground mb-2 flex items-center gap-1">
