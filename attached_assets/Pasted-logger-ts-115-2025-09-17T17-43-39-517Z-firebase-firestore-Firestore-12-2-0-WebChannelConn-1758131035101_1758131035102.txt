@@ -1,0 +1,319 @@
+logger.ts:115 
+ [2025-09-17T17:43:39.517Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3f625aeb transport errored. Name: undefined Message: undefined
+defaultLogHandler	@	logger.ts:115
+warn	@	logger.ts:206
+__PRIVATE_logWarn	@	log.ts:69
+(anonymous)	@	webchannel_connection.ts:335
+(anonymous)	@	webchannel_connection.ts:301
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Z2.sa	@	webchannel_blob_es2018.js:85
+R	@	webchannel_blob_es2018.js:78
+Ub	@	webchannel_blob_es2018.js:77
+Qb	@	webchannel_blob_es2018.js:36
+M2.Y	@	webchannel_blob_es2018.js:34
+M2.ca	@	webchannel_blob_es2018.js:30
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Wc	@	webchannel_blob_es2018.js:62
+h.bb	@	webchannel_blob_es2018.js:61
+h.Ea	@	webchannel_blob_es2018.js:61
+Lc	@	webchannel_blob_es2018.js:57
+h.Pa	@	webchannel_blob_es2018.js:55
+Promise.then		
+Nc	@	webchannel_blob_es2018.js:55
+h.Sa	@	webchannel_blob_es2018.js:55
+Promise.then		
+h.send	@	webchannel_blob_es2018.js:52
+h.ea	@	webchannel_blob_es2018.js:60
+Jb	@	webchannel_blob_es2018.js:30
+fd	@	webchannel_blob_es2018.js:76
+h.Fa	@	webchannel_blob_es2018.js:75
+Da	@	webchannel_blob_es2018.js:14
+Promise.then		
+x2	@	webchannel_blob_es2018.js:14
+ec	@	webchannel_blob_es2018.js:74
+Rb	@	webchannel_blob_es2018.js:39
+M2.Y	@	webchannel_blob_es2018.js:33
+M2.ca	@	webchannel_blob_es2018.js:30
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Wc	@	webchannel_blob_es2018.js:62
+h.bb	@	webchannel_blob_es2018.js:61
+h.Ea	@	webchannel_blob_es2018.js:61
+Lc	@	webchannel_blob_es2018.js:57
+h.Pa	@	webchannel_blob_es2018.js:55
+Promise.then		
+Nc	@	webchannel_blob_es2018.js:55
+h.Sa	@	webchannel_blob_es2018.js:55
+Promise.then		
+h.send	@	webchannel_blob_es2018.js:52
+h.ea	@	webchannel_blob_es2018.js:60
+Jb	@	webchannel_blob_es2018.js:29
+Hb	@	webchannel_blob_es2018.js:28
+h.Ga	@	webchannel_blob_es2018.js:72
+Da	@	webchannel_blob_es2018.js:14
+Promise.then		
+x2	@	webchannel_blob_es2018.js:14
+fc	@	webchannel_blob_es2018.js:70
+h.connect	@	webchannel_blob_es2018.js:68
+Y2.m	@	webchannel_blob_es2018.js:82
+Yo	@	webchannel_connection.ts:267
+send	@	stream_bridge.ts:70
+q_	@	persistent_stream.ts:322
+Y_	@	persistent_stream.ts:692
+__PRIVATE_sendWatchRequest	@	remote_store.ts:348
+(anonymous)	@	remote_store.ts:417
+__PRIVATE_onWatchStreamOpen	@	remote_store.ts:416
+(anonymous)	@	persistent_stream.ts:528
+(anonymous)	@	persistent_stream.ts:595
+(anonymous)	@	async_queue_impl.ts:136
+(anonymous)	@	async_queue_impl.ts:187
+Promise.then		
+cc	@	async_queue_impl.ts:185
+enqueue	@	async_queue_impl.ts:130
+enqueueAndForget	@	async_queue_impl.ts:94
+(anonymous)	@	persistent_stream.ts:593
+(anonymous)	@	persistent_stream.ts:508
+__	@	stream_bridge.ts:86
+(anonymous)	@	webchannel_connection.ts:431
+setTimeout		
+T_	@	webchannel_connection.ts:426
+j_	@	persistent_stream.ts:656
+G_	@	persistent_stream.ts:503
+(anonymous)	@	persistent_stream.ts:477
+Promise.then		
+auth	@	persistent_stream.ts:467
+start	@	persistent_stream.ts:264
+(anonymous)	@	persistent_stream.ts:561
+(anonymous)	@	backoff.ts:137
+(anonymous)	@	async_queue.ts:196
+(anonymous)	@	async_queue_impl.ts:136
+(anonymous)	@	async_queue_impl.ts:187
+Promise.then		
+cc	@	async_queue_impl.ts:185
+enqueue	@	async_queue_impl.ts:130
+enqueueAndForget	@	async_queue_impl.ts:94
+handleDelayElapsed	@	async_queue.ts:193
+(anonymous)	@	async_queue.ts:160
+setTimeout		
+start	@	async_queue.ts:160
+createAndSchedule	@	async_queue.ts:151
+enqueueAfterDelay	@	async_queue_impl.ts:225
+p_	@	backoff.ts:132
+N_	@	persistent_stream.ts:554
+start	@	persistent_stream.ts:256
+__PRIVATE_startWatchStream	@	remote_store.ts:381
+__PRIVATE_onWatchStreamClose	@	remote_store.ts:440
+close	@	persistent_stream.ts:419
+z_	@	persistent_stream.ts:580
+(anonymous)	@	persistent_stream.ts:533
+(anonymous)	@	persistent_stream.ts:595
+(anonymous)	@	async_queue_impl.ts:136
+(anonymous)	@	async_queue_impl.ts:187
+Promise.then		
+cc	@	async_queue_impl.ts:185
+enqueue	@	async_queue_impl.ts:130
+enqueueAndForget	@	async_queue_impl.ts:94
+(anonymous)	@	persistent_stream.ts:593
+(anonymous)	@	persistent_stream.ts:532
+a_	@	stream_bridge.ts:94
+(anonymous)	@	webchannel_connection.ts:342
+(anonymous)	@	webchannel_connection.ts:301
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Z2.sa	@	webchannel_blob_es2018.js:85
+R	@	webchannel_blob_es2018.js:78
+Ub	@	webchannel_blob_es2018.js:77
+Qb	@	webchannel_blob_es2018.js:36
+M2.Y	@	webchannel_blob_es2018.js:34
+M2.ca	@	webchannel_blob_es2018.js:30
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Wc	@	webchannel_blob_es2018.js:62
+h.bb	@	webchannel_blob_es2018.js:61
+h.Ea	@	webchannel_blob_es2018.js:61
+Lc	@	webchannel_blob_es2018.js:57
+h.Pa	@	webchannel_blob_es2018.js:55
+Promise.then		
+Nc	@	webchannel_blob_es2018.js:55
+h.Sa	@	webchannel_blob_es2018.js:55
+Promise.then		
+h.send	@	webchannel_blob_es2018.js:52
+h.ea	@	webchannel_blob_es2018.js:60
+Jb	@	webchannel_blob_es2018.js:30
+fd	@	webchannel_blob_es2018.js:76
+h.Fa	@	webchannel_blob_es2018.js:75
+Da	@	webchannel_blob_es2018.js:14
+Promise.then		
+x2	@	webchannel_blob_es2018.js:14
+ec	@	webchannel_blob_es2018.js:74
+Rb	@	webchannel_blob_es2018.js:39
+M2.Y	@	webchannel_blob_es2018.js:33
+M2.ca	@	webchannel_blob_es2018.js:30
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Wc	@	webchannel_blob_es2018.js:62
+h.bb	@	webchannel_blob_es2018.js:61
+h.Ea	@	webchannel_blob_es2018.js:61
+Lc	@	webchannel_blob_es2018.js:57
+h.Pa	@	webchannel_blob_es2018.js:55
+Promise.then		
+Nc	@	webchannel_blob_es2018.js:55
+h.Sa	@	webchannel_blob_es2018.js:55
+Promise.then		
+h.send	@	webchannel_blob_es2018.js:52
+h.ea	@	webchannel_blob_es2018.js:60
+Jb	@	webchannel_blob_es2018.js:29
+Hb	@	webchannel_blob_es2018.js:28
+h.Ga	@	webchannel_blob_es2018.js:72
+Da	@	webchannel_blob_es2018.js:14
+Promise.then		
+x2	@	webchannel_blob_es2018.js:14
+fc	@	webchannel_blob_es2018.js:70
+h.connect	@	webchannel_blob_es2018.js:68
+Y2.m	@	webchannel_blob_es2018.js:82
+Yo	@	webchannel_connection.ts:267
+send	@	stream_bridge.ts:70
+q_	@	persistent_stream.ts:322
+Y_	@	persistent_stream.ts:692
+__PRIVATE_sendWatchRequest	@	remote_store.ts:348
+(anonymous)	@	remote_store.ts:417
+__PRIVATE_onWatchStreamOpen	@	remote_store.ts:416
+(anonymous)	@	persistent_stream.ts:528
+(anonymous)	@	persistent_stream.ts:595
+(anonymous)	@	async_queue_impl.ts:136
+(anonymous)	@	async_queue_impl.ts:187
+Promise.then		
+cc	@	async_queue_impl.ts:185
+enqueue	@	async_queue_impl.ts:130
+enqueueAndForget	@	async_queue_impl.ts:94
+(anonymous)	@	persistent_stream.ts:593
+(anonymous)	@	persistent_stream.ts:508
+__	@	stream_bridge.ts:86
+(anonymous)	@	webchannel_connection.ts:431
+setTimeout		
+T_	@	webchannel_connection.ts:426
+j_	@	persistent_stream.ts:656
+G_	@	persistent_stream.ts:503
+(anonymous)	@	persistent_stream.ts:477
+Promise.then		
+auth	@	persistent_stream.ts:467
+start	@	persistent_stream.ts:264
+(anonymous)	@	persistent_stream.ts:561
+(anonymous)	@	backoff.ts:137
+(anonymous)	@	async_queue.ts:196
+(anonymous)	@	async_queue_impl.ts:136
+(anonymous)	@	async_queue_impl.ts:187
+Promise.then		
+cc	@	async_queue_impl.ts:185
+enqueue	@	async_queue_impl.ts:130
+enqueueAndForget	@	async_queue_impl.ts:94
+handleDelayElapsed	@	async_queue.ts:193
+(anonymous)	@	async_queue.ts:160
+setTimeout		
+start	@	async_queue.ts:160
+createAndSchedule	@	async_queue.ts:151
+enqueueAfterDelay	@	async_queue_impl.ts:225
+p_	@	backoff.ts:132
+N_	@	persistent_stream.ts:554
+start	@	persistent_stream.ts:256
+__PRIVATE_startWatchStream	@	remote_store.ts:381
+__PRIVATE_onWatchStreamClose	@	remote_store.ts:440
+close	@	persistent_stream.ts:419
+z_	@	persistent_stream.ts:580
+(anonymous)	@	persistent_stream.ts:533
+(anonymous)	@	persistent_stream.ts:595
+(anonymous)	@	async_queue_impl.ts:136
+(anonymous)	@	async_queue_impl.ts:187
+Promise.then		
+cc	@	async_queue_impl.ts:185
+enqueue	@	async_queue_impl.ts:130
+enqueueAndForget	@	async_queue_impl.ts:94
+(anonymous)	@	persistent_stream.ts:593
+(anonymous)	@	persistent_stream.ts:532
+a_	@	stream_bridge.ts:94
+(anonymous)	@	webchannel_connection.ts:342
+(anonymous)	@	webchannel_connection.ts:301
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Z2.sa	@	webchannel_blob_es2018.js:85
+R	@	webchannel_blob_es2018.js:78
+Ub	@	webchannel_blob_es2018.js:77
+Qb	@	webchannel_blob_es2018.js:36
+M2.Y	@	webchannel_blob_es2018.js:34
+M2.ca	@	webchannel_blob_es2018.js:30
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Wc	@	webchannel_blob_es2018.js:62
+h.bb	@	webchannel_blob_es2018.js:61
+h.Ea	@	webchannel_blob_es2018.js:61
+Lc	@	webchannel_blob_es2018.js:57
+h.Pa	@	webchannel_blob_es2018.js:55
+Promise.then		
+Nc	@	webchannel_blob_es2018.js:55
+h.Sa	@	webchannel_blob_es2018.js:55
+Promise.then		
+h.send	@	webchannel_blob_es2018.js:52
+h.ea	@	webchannel_blob_es2018.js:60
+Jb	@	webchannel_blob_es2018.js:30
+fd	@	webchannel_blob_es2018.js:76
+h.Fa	@	webchannel_blob_es2018.js:75
+Da	@	webchannel_blob_es2018.js:14
+Promise.then		
+x2	@	webchannel_blob_es2018.js:14
+ec	@	webchannel_blob_es2018.js:74
+Rb	@	webchannel_blob_es2018.js:39
+M2.Y	@	webchannel_blob_es2018.js:33
+M2.ca	@	webchannel_blob_es2018.js:30
+ab	@	webchannel_blob_es2018.js:25
+F2	@	webchannel_blob_es2018.js:23
+Wc	@	webchannel_blob_es2018.js:62
+h.bb	@	webchannel_blob_es2018.js:61
+h.Ea	@	webchannel_blob_es2018.js:61
+Lc	@	webchannel_blob_es2018.js:57
+h.Pa	@	webchannel_blob_es2018.js:55
+Promise.then		
+Nc	@	webchannel_blob_es2018.js:55
+h.Sa	@	webchannel_blob_es2018.js:55
+Promise.then		
+h.send	@	webchannel_blob_es2018.js:52
+h.ea	@	webchannel_blob_es2018.js:60
+Jb	@	webchannel_blob_es2018.js:29
+Hb	@	webchannel_blob_es2018.js:28
+h.Ga	@	webchannel_blob_es2018.js:72
+Da	@	webchannel_blob_es2018.js:14
+Promise.then		
+x2	@	webchannel_blob_es2018.js:14
+fc	@	webchannel_blob_es2018.js:70
+h.connect	@	webchannel_blob_es2018.js:68
+Y2.m	@	webchannel_blob_es2018.js:82
+Yo	@	webchannel_connection.ts:267
+send	@	stream_bridge.ts:70
+q_	@	persistent_stream.ts:322
+Y_	@	persistent_stream.ts:692
+__PRIVATE_sendWatchRequest	@	remote_store.ts:348
+(anonymous)	@	remote_store.ts:417
+__PRIVATE_onWatchStreamOpen	@	remote_store.ts:416
+(anonymous)	@	persistent_stream.ts:528
+(anonymous)	@	persistent_stream.ts:595
+(anonymous)	@	async_queue_impl.ts:136
+(anonymous)	@	async_queue_impl.ts:187
+Promise.then		
+cc	@	async_queue_impl.ts:185
+enqueue	@	async_queue_impl.ts:130
+enqueueAndForget	@	async_queue_impl.ts:94
+(anonymous)	@	persistent_stream.ts:593
+(anonymous)	@	persistent_stream.ts:508
+__	@	stream_bridge.ts:86
+(anonymous)	@	webchannel_connection.ts:431
+setTimeout		
+T_	@	webchannel_connection.ts:426
+j_	@	persistent_stream.ts:656
+G_	@	persistent_stream.ts:503
+(anonymous)	@	persistent_stream.ts:477
+webchannel_blob_es2018.js:52 
+ 
+ GET https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/chann…rpc&SID=agshSx_x1vJuhl5hNepcEQ&AID=0&CI=0&TYPE=xmlhttp&zx=ghvswbcc0zg3&t=1 net::ERR_ABORTED 400 (Bad Request)
+logger.ts:115 
+ [2025-09-17T17:43:45.766Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3f625aec transport errored. Name: undefined Message: undefined

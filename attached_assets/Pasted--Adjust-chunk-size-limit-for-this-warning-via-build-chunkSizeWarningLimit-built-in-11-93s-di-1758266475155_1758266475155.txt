@@ -1,0 +1,51 @@
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 11.93s
+  dist/index.js  301.0kb
+⚡ Done in 147ms
+==> Uploading build...
+==> Uploaded in 10.6s. Compression took 163.2s
+==> Build successful 🎉
+==> Deploying...
+==> Running 'npm run start'
+> rest-express@1.0.0 start
+> NODE_ENV=production node dist/index.js
+==> Exited with status 1
+==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+URL decode attempt 1 successful
+Attempting to parse service account JSON...
+Error parsing Firebase service account JSON: SyntaxError: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at JSON.parse (<anonymous>)
+    at file:///opt/render/project/src/dist/index.js:2612:26
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Service account length: 2440 characters
+First 100 chars of service account: {   \"type\": \"service_account\",   \"project_id\": \"sih-hackathon-77590\",   \"private_key_id\": 
+Last 100 chars of service account: k-fbsvc%40sih-hackathon-77590.iam.gserviceaccount.com\",   \"universe_domain\": \"googleapis.com\" }
+Warning: Firebase Admin initialization failed. Using stub implementation. Error: Invalid Firebase service account JSON: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at file:///opt/render/project/src/dist/index.js:2623:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+CRITICAL: Firebase Admin failed to initialize in production. Stopping server.
+==> Running 'npm run start'
+> rest-express@1.0.0 start
+> NODE_ENV=production node dist/index.js
+URL decode attempt 1 successful
+Attempting to parse service account JSON...
+Error parsing Firebase service account JSON: SyntaxError: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at JSON.parse (<anonymous>)
+    at file:///opt/render/project/src/dist/index.js:2612:26
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Service account length: 2440 characters
+First 100 chars of service account: {   \"type\": \"service_account\",   \"project_id\": \"sih-hackathon-77590\",   \"private_key_id\": 
+Last 100 chars of service account: k-fbsvc%40sih-hackathon-77590.iam.gserviceaccount.com\",   \"universe_domain\": \"googleapis.com\" }
+Warning: Firebase Admin initialization failed. Using stub implementation. Error: Invalid Firebase service account JSON: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at file:///opt/render/project/src/dist/index.js:2623:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+CRITICAL: Firebase Admin failed to initialize in production. Stopping server.
+Need better ways to 

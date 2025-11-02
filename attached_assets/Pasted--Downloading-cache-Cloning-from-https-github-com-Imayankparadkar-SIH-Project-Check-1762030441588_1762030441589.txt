@@ -1,0 +1,64 @@
+==> Downloading cache...
+==> Cloning from https://github.com/Imayankparadkar/SIH_Project
+==> Checking out commit ca7e74d6eff38020d58cbc13836ad81750ca1bac in branch main
+==> Transferred 346MB in 2s. Extraction took 8s.
+==> Using Node.js version 22.16.0 (default)
+==> Docs on specifying a Node.js version: https://render.com/docs/node-version
+==> Running build command 'npm install; npm run build'...
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: @react-three/drei@10.7.6
+npm error Found: react@18.3.1
+npm error node_modules/react
+npm error   react@"^18.3.1" from the root project
+npm error   peer react@">=16.8.0" from @floating-ui/react-dom@2.1.6
+npm error   node_modules/@floating-ui/react-dom
+npm error     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.8
+npm error     node_modules/@radix-ui/react-popper
+npm error       @radix-ui/react-popper@"1.2.8" from @radix-ui/react-hover-card@1.1.15
+npm error       node_modules/@radix-ui/react-hover-card
+npm error         @radix-ui/react-hover-card@"^1.1.7" from the root project
+npm error       4 more (@radix-ui/react-menu, @radix-ui/react-popover, ...)
+npm error   83 more (@radix-ui/react-accordion, ...)
+npm error
+npm error Could not resolve dependency:
+npm error peer react@"^19" from @react-three/drei@10.7.6
+npm error node_modules/@react-three/drei
+npm error   @react-three/drei@"^10.7.6" from the root project
+npm error
+npm error Conflicting peer dependency: react@19.2.0
+npm error node_modules/react
+npm error   peer react@"^19" from @react-three/drei@10.7.6
+npm error   node_modules/@react-three/drei
+npm error     @react-three/drei@"^10.7.6" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error /opt/render/.cache/_logs/2025-11-01T20_30_27_282Z-eresolve-report.txt
+npm error A complete log of this run can be found in: /opt/render/.cache/_logs/2025-11-01T20_30_27_282Z-debug-0.log
+> rest-express@1.0.0 build
+> vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist
+vite v5.4.20 building for production...
+transforming...
+✓ 79 modules transformed.
+x Build failed in 1.72s
+error during build:
+[vite]: Rollup failed to resolve import "react-leaflet" from "/opt/render/project/src/client/src/pages/disease-map.tsx".
+This is most likely unintended because it can break your application at runtime.
+If you do want to externalize this module explicitly add it to
+`build.rollupOptions.external`
+    at viteWarn (file:///opt/render/project/src/node_modules/vite/dist/node/chunks/dep-D_zLpgQd.js:65854:17)
+    at onwarn (file:///opt/render/project/src/node_modules/@vitejs/plugin-react/dist/index.js:90:7)
+    at onRollupWarning (file:///opt/render/project/src/node_modules/vite/dist/node/chunks/dep-D_zLpgQd.js:65884:5)
+    at onwarn (file:///opt/render/project/src/node_modules/vite/dist/node/chunks/dep-D_zLpgQd.js:65549:7)
+    at file:///opt/render/project/src/node_modules/rollup/dist/es/shared/node-entry.js:20953:13
+    at Object.logger [as onLog] (file:///opt/render/project/src/node_modules/rollup/dist/es/shared/node-entry.js:22825:9)
+    at ModuleLoader.handleInvalidResolvedId (file:///opt/render/project/src/node_modules/rollup/dist/es/shared/node-entry.js:21569:26)
+    at file:///opt/render/project/src/node_modules/rollup/dist/es/shared/node-entry.js:21527:26
+==> Build failed 😞
+==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys

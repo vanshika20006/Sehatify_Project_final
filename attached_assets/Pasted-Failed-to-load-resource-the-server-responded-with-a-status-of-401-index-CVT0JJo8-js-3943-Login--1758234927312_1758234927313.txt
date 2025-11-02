@@ -1,0 +1,78 @@
+Failed to load resource: the server responded with a status of 401 ()
+index-CVT0JJo8.js:3943  Login error: Error: Invalid token
+    at Object.login (index-CVT0JJo8.js:3943:1656)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+/api/auth/verify:1   Failed to load resource: the server responded with a status of 401 ()
+index-CVT0JJo8.js:3943  Login error: Error: Invalid token
+    at Object.login (index-CVT0JJo8.js:3943:1656)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+/api/auth/verify:1   Failed to load resource: the server responded with a status of 401 ()
+index-CVT0JJo8.js:3943  Login error: Error: Invalid token
+    at Object.login (index-CVT0JJo8.js:3943:1656)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+/api/auth/verify:1   Failed to load resource: the server responded with a status of 401 ()
+index-CVT0JJo8.js:3943  Login error: Error: Invalid token
+    at Object.login (index-CVT0JJo8.js:3943:1656)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyB6g2Ou3F2aFvG1qQVSAt4OfzmHSDz_Ijs:1   Failed to load resource: the server responded with a status of 400 ()
+index-CVT0JJo8.js:3943  Login error: FirebaseError: Firebase: Error (auth/invalid-credential).
+    at yk (index-CVT0JJo8.js:1042:481)
+    at Ka (index-CVT0JJo8.js:1042:30)
+    at jq (index-CVT0JJo8.js:1147:1425)
+    at async Mx (index-CVT0JJo8.js:1147:1562)
+    at async zq (index-CVT0JJo8.js:1732:93)
+    at async Object.login (index-CVT0JJo8.js:3943:1453)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyB6g2Ou3F2aFvG1qQVSAt4OfzmHSDz_Ijs:1   Failed to load resource: the server responded with a status of 400 ()
+index-CVT0JJo8.js:3943  Login error: FirebaseError: Firebase: Error (auth/invalid-credential).
+    at yk (index-CVT0JJo8.js:1042:481)
+    at Ka (index-CVT0JJo8.js:1042:30)
+    at jq (index-CVT0JJo8.js:1147:1425)
+    at async Mx (index-CVT0JJo8.js:1147:1562)
+    at async zq (index-CVT0JJo8.js:1732:93)
+    at async Object.login (index-CVT0JJo8.js:3943:1453)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyB6g2Ou3F2aFvG1qQVSAt4OfzmHSDz_Ijs:1   Failed to load resource: the server responded with a status of 400 ()
+index-CVT0JJo8.js:3943  Login error: FirebaseError: Firebase: Error (auth/invalid-credential).
+    at yk (index-CVT0JJo8.js:1042:481)
+    at Ka (index-CVT0JJo8.js:1042:30)
+    at jq (index-CVT0JJo8.js:1147:1425)
+    at async Mx (index-CVT0JJo8.js:1147:1562)
+    at async zq (index-CVT0JJo8.js:1732:93)
+    at async Object.login (index-CVT0JJo8.js:3943:1453)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+/api/auth/verify:1   Failed to load resource: the server responded with a status of 401 ()
+index-CVT0JJo8.js:3943  Login error: Error: Invalid token
+    at Object.login (index-CVT0JJo8.js:3943:1656)
+    at async login (index-CVT0JJo8.js:3943:3685)
+    at async h (index-CVT0JJo8.js:3983:129588)
+    at async index-CVT0JJo8.js:3983:66789
+login @ index-CVT0JJo8.js:3943
+/api/auth/profile:1   Failed to load resource: the server responded with a status of 500 ()
+index-CVT0JJo8.js:3943  Registration error: Error: Failed to save profile
+    at Object.register (index-CVT0JJo8.js:3943:2449)
+    at async register (index-CVT0JJo8.js:3943:3995)
+    at async v (index-CVT0JJo8.js:3983:240076)
+    at async index-CVT0JJo8.js:3983:66789
+register @ index-CVT0JJo8.js:3943

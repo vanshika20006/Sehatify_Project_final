@@ -1,0 +1,41 @@
+react-dom.development.js:798  Allow attribute will take precedence over 'allowfullscreen'.
+setValueForProperty @ react-dom.development.js:798
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=3QheBgZsaRyu1ogN3nCbiKaGcPHuX1t4DPrY3_tLIH0&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=cocyWAJ665iAlph2M5xz7w&AID=0&CI=0&TYPE=xmlhttp&zx=jih5xfiterzo&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:20.170Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d292 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=uM2elX7UktFkG7mRwhbeGpDDp3SAYN2iQtk_J5ojKAQ&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=ANOWkNNaJS9b_n4hSLK0bA&AID=0&CI=0&TYPE=xmlhttp&zx=bnuzhmte9o2e&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:20.274Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d293 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=AqQI-seXesWkA5sHPJRSn_dQ8-zn4umbjcDiLBZzrNA&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=xi6J9Hju8btCZI83-0GSnQ&AID=0&CI=0&TYPE=xmlhttp&zx=ivqhe14mz9zk&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:21.732Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d294 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=DROg6iM_j2HQVpQQJbIsFP34ilb6EbLqXijOoQ1BahE&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=2GHwkYq9DJb2ZdQqrk_ANQ&AID=0&CI=0&TYPE=xmlhttp&zx=xtnxig86ht11&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:23.732Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d295 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=jKmt-JBlpnq7wtEFfO6VjCm1zEacp_t6gZmIRJ-pY5k&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=4o_3V_aIbIPDlpYxw4tVcA&AID=0&CI=0&TYPE=xmlhttp&zx=es09fjjh6fl2&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:25.590Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d296 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=HI0oewmcuxM-wrYFnnLrvHAZ2uEFXwtAl7R6uq8Cxqg&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=jT355Vxe5yqSJIr2mgWRQg&AID=0&CI=0&TYPE=xmlhttp&zx=l2yjgymoeutr&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:30.317Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d297 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=dWcDW1fEv4QV5i9cegG5WG_9aY4RwR5tN_6qYncJqKE&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=yhMim3kq7suWsG1k798Qhg&AID=0&CI=0&TYPE=xmlhttp&zx=f5yl16g4azqw&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:37.840Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d298 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=Pbl6wAKd6eUXHTGVrIDvBFR1SHtIQ7jGZnjmW0X5DgY&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=SmhUhf3kxE8CMskt1W7Dew&AID=0&CI=0&TYPE=xmlhttp&zx=4zc2yhsaye7s&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:43.356Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d299 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=QSXIAWAPVLfhtdZBV92sAj52ipXtuP38KzU3YCkNY64&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=0C9s1OBNy6JtM5BMBws9qQ&AID=0&CI=0&TYPE=xmlhttp&zx=9vfhp7saxsmv&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:54:50.341Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d29a transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=F-fZUzkX7TCCHms0RPqjng3m4WUQ0TPdbhUYJIJCblM&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=Ygh8Ddi2YWjyr1m6ULrDCA&AID=0&CI=0&TYPE=xmlhttp&zx=q232p06whjfq&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:55:00.217Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d29b transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=WSJ4IxU3tkNMCyjeJADMiYLUTL2Zxijnn9zZ22QsOCI&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=0wfZvM3o9ROFCMf-lcTOHA&AID=0&CI=0&TYPE=xmlhttp&zx=dk9xgg2az5pv&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:55:32.849Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d29c transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=D4qGov5ukguxCSM3sy7GvKo8IAVc9T2dvVPmUyI9LxQ&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=eSkqse7FllBUrQd7mIFWaw&AID=0&CI=0&TYPE=xmlhttp&zx=arwdi52uw5mb&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:56:24.380Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x3997d29d transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+/api/uploads:1   Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ai-doctor.tsx:343  File upload error: Error: Upload failed
+    at handleFileUpload (ai-doctor.tsx:340:15)

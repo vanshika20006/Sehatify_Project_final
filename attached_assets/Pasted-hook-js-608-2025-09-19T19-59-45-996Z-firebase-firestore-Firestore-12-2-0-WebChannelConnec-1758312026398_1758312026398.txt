@@ -1,0 +1,47 @@
+hook.js:608 
+ [2025-09-19T19:59:45.996Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x551f2c12 transport errored. Name: undefined Message: undefined
+firestore.googleapis…=cnwutf3nhpwf&t=1:1 
+ 
+ Failed to load resource: the server responded with a status of 400 ()
+hook.js:608 
+ [2025-09-19T19:59:46.705Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x551f2c13 transport errored. Name: undefined Message: undefined
+firestore.googleapis…=jkae0ftjp4gk&t=1:1 
+ 
+ Failed to load resource: the server responded with a status of 400 ()
+hook.js:608 
+ [2025-09-19T19:59:48.770Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x551f2c14 transport errored. Name: undefined Message: undefined
+index-DCh_rlJw.js:3988 MockHealthDataService: Subscriber removed
+index-DCh_rlJw.js:3988 MockHealthDataService: Stopping real-time updates
+firestore.googleapis…=nhsddsau2m0g&t=1:1 
+ 
+ Failed to load resource: the server responded with a status of 400 ()
+hook.js:608 
+ [2025-09-19T19:59:50.498Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x551f2c15 transport errored. Name: undefined Message: undefined
+api/donations/profile:1 
+ 
+ Failed to load resource: the server responded with a status of 401 ()
+hook.js:608 
+ Error fetching donor profile: Error: Failed to fetch donor profile
+    at XYe.getDonorProfile (index-DCh_rlJw.js:4108:66301)
+    at async index-DCh_rlJw.js:4108:71049
+hook.js:608 
+ Error fetching donation data: Error: Failed to fetch donor profile
+    at XYe.getDonorProfile (index-DCh_rlJw.js:4108:66301)
+    at async index-DCh_rlJw.js:4108:71049
+firestore.googleapis…=fz334ri5aty2&t=1:1 
+ 
+ Failed to load resource: the server responded with a status of 400 ()
+hook.js:608 
+ [2025-09-19T19:59:55.994Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x551f2c16 transport errored. Name: undefined Message: undefined
+firestore.googleapis…=pkd4jmwvgila&t=1:1 
+ 
+ Failed to load resource: the server responded with a status of 400 ()
+hook.js:608 
+ [2025-09-19T20:00:00.419Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x551f2c17 transport errored. Name: undefined Message: undefined
+index-DCh_rlJw.js:2201 
+ 
+ GET https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/chann…rpc&SID=Ely3Q7NchsVT1kInhLNvGg&AID=0&CI=0&TYPE=xmlhttp&zx=uy0lkjyhqncs&t=1 400 (Bad Request)
+index-DCh_rlJw.js:892 
+ [2025-09-19T20:00:11.553Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x551f2c18 transport errored. Name: undefined Message: undefined
+﻿
+

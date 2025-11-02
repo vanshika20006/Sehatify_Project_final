@@ -1,0 +1,86 @@
+Project Flow:
+
+1. User Onboarding
+User registers in the app (details: name, age, gender, medical history, allergies, preferred language).
+Selects doctor or nearby hospital for automatic report sharing.
+
+Chooses notification preferences (diet reminders, emergency alerts, etc.).
+Create or link an ABHA (Ayushman Bharat Health Account) if available (optional) for EHR portability. 
+
+Optionally link: private insurance (PolicyBazaar-like onboarding) and/or government schemes (PM-JAY / Ayushman Bharat) — store policy IDs & consent for automated claim/eligibility checks.
+
+2. Data Collection (Wristband Sensors)
+Wristband continuously/periodically measures:
+Blood Pressure
+Pulse Rate
+Oxygen Level (SpO₂)
+ECG
+Motion/Activity (steps, sleep patterns, falls)
+Dosimeter (radiation exposure, if included)
+Body Temperature
+
+3. Data Transmission & Storage
+Sensor data sent to mobile app via Bluetooth/Wi-Fi.
+App syncs with secure cloud database.
+Data encryption ensures privacy.
+
+4. Real-Time Monitoring
+Live dashboard shows current vitals.
+Critical alerts (e.g., abnormal ECG, low oxygen, high sugar) sent instantly to:
+User
+Emergency contacts
+Assigned doctor (if life-threatening)
+
+5. Report Generation
+Weekly automatic reports prepared:
+Client Report – simplified version (graphs, easy language, lifestyle suggestions).
+Doctor Report – detailed clinical version (raw data, trends, anomalies).
+Reports auto-shared with the linked doctor before the patient’s visit.
+
+6. Doctor Preparation
+Doctor reviews report before appointment.
+Saves consultation time – doctor is ready with:
+Preliminary diagnosis
+Basic treatment plan
+Follow-up suggestions
+
+7. AI-Powered Assistance
+Personalized Diet Plan generated using:
+User’s health condition, goals, and recovery needs.
+Vegetarian/non-vegetarian preferences.
+
+
+AI Chatbot helps with:
+Doubts patient forgot to ask doctor.
+Explaining medical terms in simple language.
+Guidance on lifestyle changes.
+
+8. Language Accessibility
+App & chatbot support multiple languages.
+User can choose their preferred language so language is never a barrier.
+
+9. Community & Network Features
+
+Advanced Donation System:
+
+Not only blood, but also plasma, platelets, WBC, and RBC donations & requests.
+
+When anyone donates to a hospital or blood bank, they earn reward coins.
+
+These coins can later be converted into real money or used for healthcare discounts.
+
+
+Disease/Outbreak Alerts: notify users in a particular zone about possible viral spread or health risks.
+
+My Doctor (AI Chatbot): acts like a virtual doctor, answering queries in real-time, simulating a human doctor’s advice, and guiding before physical consultation.
+
+Hospital Rating & Feedback System: patients can rate hospitals and doctors, helping others make informed choices.
+
+Medicine Partnership Programs: connects users with pharmacies for affordable medicine and home delivery.
+
+Insurance & Government Scheme Integration: provides updates, eligibility checks, and cashless treatment options through linked providers.
+
+10. User Interaction & Engagement
+Weekly health tips & reminders.
+Gamification (badges for healthy habits, steps completed, etc.).
+Reports sharable with family for transparency.

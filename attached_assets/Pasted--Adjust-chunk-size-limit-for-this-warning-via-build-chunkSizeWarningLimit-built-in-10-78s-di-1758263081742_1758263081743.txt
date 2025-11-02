@@ -1,0 +1,43 @@
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 10.78s
+  dist/index.js  298.9kb
+⚡ Done in 16ms
+==> Uploading build...
+==> Uploaded in 11.5s. Compression took 7.2s
+==> Build successful 🎉
+==> Deploying...
+==> Running 'npm run start'
+> rest-express@1.0.0 start
+> NODE_ENV=production node dist/index.js
+Error parsing Firebase service account JSON: SyntaxError: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at JSON.parse (<anonymous>)
+    at file:///opt/render/project/src/dist/index.js:2585:26
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Service account length: 2440 characters
+Warning: Firebase Admin initialization failed. Using stub implementation. Error: Invalid Firebase service account JSON: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at file:///opt/render/project/src/dist/index.js:2593:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+CRITICAL: Firebase Admin failed to initialize in production. Stopping server.
+==> Exited with status 1
+==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+==> Running 'npm run start'
+> rest-express@1.0.0 start
+> NODE_ENV=production node dist/index.js
+Error parsing Firebase service account JSON: SyntaxError: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at JSON.parse (<anonymous>)
+    at file:///opt/render/project/src/dist/index.js:2585:26
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Service account length: 2440 characters
+Warning: Firebase Admin initialization failed. Using stub implementation. Error: Invalid Firebase service account JSON: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at file:///opt/render/project/src/dist/index.js:2593:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+CRITICAL: Firebase Admin failed to initialize in production. Stopping server.
+Need bet

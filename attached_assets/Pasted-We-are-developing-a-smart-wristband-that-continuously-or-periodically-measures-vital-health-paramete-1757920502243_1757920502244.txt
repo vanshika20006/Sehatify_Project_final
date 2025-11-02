@@ -1,0 +1,51 @@
+We are developing a smart wristband that continuously or periodically measures vital health parameters such as:
+
+Blood Pressure
+
+Pulse Rate
+
+Oxygen Level (SpO₂)
+
+ECG
+
+Motion & Activity (steps, sleep patterns, falls)
+
+Dosimeter (radiation exposure, optional)
+
+Body Temperature
+
+This wristband helps capture real-time health data of the user. Using this data, our AI builds a predictive health model by analyzing patterns over 1 week, 2 weeks, and 1 month. If the system detects unusual changes or deviations in the user’s body condition, it immediately notifies the user and recommends visiting a doctor.
+
+At the same time, the system automatically generates predictive health reports and securely shares them with the user’s preferred doctor. This allows the doctor to review the patient’s health data before the appointment, saving time for both doctor and patient.
+
+When the user visits the doctor and a medical test is prescribed, our platform enables the user to choose a pathology lab directly. A lab professional visits the patient’s home to collect samples, and once reports are generated, they are uploaded to our platform. Our AI then analyzes these reports, summarizes them in the user’s preferred language, and shares the results with both the doctor and the patient—ensuring nothing is missed and enabling more accurate diagnosis.
+
+Next, when the doctor prescribes medicines, the user can purchase them directly through our platform, thanks to partnerships with online pharmacies that ensure discounted prices and quick delivery.
+
+We also introduce “My Doctor” – a 3D AI-powered virtual doctor assistant.
+
+The user can ask questions related to physical or mental health.
+
+The chatbot appears as a 3D animated doctor model, speaking and responding in both text and voice in the user’s preferred language.
+
+Users can upload medical reports, X-rays, or prescriptions, and the AI provides a simple summary along with a 3D visualization of the affected body part.
+
+Based on the condition, it suggests a 1-week diet plan, exercises, and precautions for faster recovery.
+
+Additionally, we are building a community-driven donation and healthcare support system:
+
+Users can find nearby hospitals or blood banks requiring blood, plasma, platelets, WBC, or RBC donations.
+
+Donors earn reward coins, which can be converted into cash or redeemed for healthcare discounts.
+
+Extra Features
+
+Hospital Rating & Feedback System: Patients can rate doctors and hospitals to help others make informed choices.
+
+Medicine Partnership Programs: Collaborations with pharmacies for affordable medicines and home delivery.
+
+Insurance & Government Scheme Integration: Users can link private insurance (e.g., PolicyBazaar) or government schemes like PM-JAY and Ayushman Bharat for cashless treatment and eligibility updates. The system also suggests the most suitable scheme based on reports.
+
+Disease/Outbreak Alerts: Notifications about health risks or disease spread in specific city zones.
+
+User Engagement & Gamification: Weekly health tips, reminders, achievement badges for healthy habits, and report-sharing options with family for transparency.

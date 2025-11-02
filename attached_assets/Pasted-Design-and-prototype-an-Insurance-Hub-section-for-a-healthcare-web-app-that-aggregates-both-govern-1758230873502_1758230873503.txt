@@ -1,0 +1,45 @@
+Design and prototype an “Insurance Hub” section for a healthcare web app that aggregates both government and private health insurance policies. 
+
+Requirements:  
+1. *Government Schemes Integration*  
+   - Include Ayushman Bharat PM-JAY and other regional/state government health insurance programs.  
+   - Auto-detect user eligibility (based on age, income, ID, family details, etc.) and show benefits (coverage limit, empanelled hospitals, validity period).  
+   - Provide an “Apply / Register” button that redirects or integrates with government application APIs.  
+   - Show empanelled hospitals on a map view.  
+
+2. *Private Insurance Policies*  
+   - Aggregate policies from multiple private insurers.  
+   - Display plan details: premium, sum insured, waiting period, co-pay %, exclusions, add-ons, claim settlement ratio, and network hospitals.  
+   - Provide calculators:  
+     - *Premium calculator* (age, family members, location, smoking status, etc.).  
+     - *Out-of-pocket estimator* for specific treatments.  
+   - Add “Apply Now” / “Buy Policy” flow with KYC, secure payment, and e-policy generation.  
+
+3. *Comparison & Filters*  
+   - Side-by-side comparison of up to 4 plans.  
+   - Filters: coverage, premium range, claim settlement ratio, waiting period, family vs individual.  
+
+4. *Terms & Conditions Summarizer*  
+   - Automatically extract and highlight key clauses (waiting periods, exclusions, sub-limits, room rent, maternity cover).  
+   - Provide a short plain-language summary for each clause.  
+
+5. *Claim & Pre-Auth Assistance*  
+   - Include an AI chatbot–guided claim filing flow.  
+   - Option to initiate pre-authorization for cashless treatment in network hospitals.  
+   - Show required documents and average claim settlement time.  
+
+6. *Unified Application Flow*  
+   - User can directly apply for *either government schemes* (with eligibility check + external API integration) or *private insurance* (with KYC + payment).  
+   - Provide status tracking (applied, under review, approved, active).  
+
+7. *UI Expectations*  
+   - Landing page: policy catalog (gov + private), search bar, filters, recommendation card.  
+   - Policy detail page: benefits, coverage, calculator results, T&C summary, network hospitals.  
+   - Application page: multi-step wizard (personal info, documents, payment/submit).  
+
+Deliverables:  
+- Figma mockups of landing, detail, and application flow.  
+- React component structure for catalog, comparison table, calculators, and application wizard.  
+- Sample JSON schema for storing policy data (gov + private).  
+
+Focus: make the Insurance Hub *transparent, easy-to-understand, and application-ready* while being compliant with IRDAI rules for private policies and official APIs for government schemes.

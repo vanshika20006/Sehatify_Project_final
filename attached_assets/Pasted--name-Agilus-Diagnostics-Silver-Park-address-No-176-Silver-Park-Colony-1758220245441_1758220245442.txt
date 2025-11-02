@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Agilus Diagnostics – Silver Park",
+    "address": "No. 176, Silver Park Colony, Phase 2, Indore – 453771"
+  },
+  {
+    "name": "Agilus Diagnostics – Nolakha",
+    "address": "No. 171/4, Khandelwal Nagar, Nolakha, Indore – 452001"
+  },
+  {
+    "name": "Agilus Diagnostics – Icchapur Road",
+    "address": "No. 214, Rani Bagh Main, Indore Icchapur Road, Indore – 452020"
+  },
+  {
+    "name": "AMPATH Labs – Radhakunj Apartment",
+    "address": "Opposite Royal Bunglow City, Indore – 452013"
+  },
+  {
+    "name": "AMPATH Labs – Guru Kripa, Lalbagh",
+    "address": "5/1, Bara Mattha, Lalbagh, Indore – 452001"
+  },
+  {
+    "name": "AMPATH Labs – Rajendra Nagar",
+    "address": "Plot No 103C, Rajendra Nagar, Indore – 452012"
+  },
+  {
+    "name": "AMPATH Labs – Nipaniya",
+    "address": "G-01, SD Corner 177-B, Amrit Palace, Nipania, Indore – 455001"
+  },
+  {
+    "name": "AMPATH Labs – Sudama Nagar",
+    "address": "714, Sudama Dwar, Sudama Nagar, Narendra Tiwari Marg, Indore – 452009"
+  },
+  {
+    "name": "Dr Lal PathLabs – Annapurna Road (Prabhu Nagar)",
+    "address": "No 1, Annapurna Rd, Prabhu Nagar, Indore – 452009"
+  },
+  {
+    "name": "Dr Lal PathLabs – Tulsi Nagar (Vijay Nagar)",
+    "address": "No 53C/A/2, Tulsi Nagar, Vijay Nagar, Indore – 452010"
+  },
+  {
+    "name": "Ideal Pathology And Diagnostic Centre",
+    "address": "Ground Floor, Tower Square, Sapna Sangeeta Road, Indore – 452001"
+  },
+  {
+    "name": "Unipath Specialty Laboratory",
+    "address": "28/1 B, South Tukoganj, Opposite Nath Mandir, Kanchan Baag Main Road, Indore – 452001"
+  },
+  {
+    "name": "Allied Pathology Lab & Blood Bank",
+    "address": "6/E A, Scheme No 54, Vijay Nagar, Indore – 452010"
+  },
+  {
+    "name": "Super Religare Laboratories",
+    "address": "34/2, New Palasia, Indore – 452001"
+  },
+  {
+    "name": "Indore Pathology Laboratory",
+    "address": "361/62, Jawahar Marg, Narsingh Bazar Chouraha, Indore – 452002"
+  },
+  {
+    "name": "Metropolis Diagnostic Centre – Janjeer Wala Square",
+    "address": "Krishna Tower, Janjeer Wala Square, Indore – 452001"
+  }
+]

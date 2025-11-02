@@ -1,0 +1,46 @@
+> vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist
+vite v5.4.20 building for production...
+transforming...
+[plugin:vite:resolve] [plugin vite:resolve] Module "events" has been externalized for browser compatibility, imported by "/opt/render/project/src/node_modules/readable-stream/lib/_stream_readable.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "events" has been externalized for browser compatibility, imported by "/opt/render/project/src/node_modules/readable-stream/lib/internal/streams/stream-browser.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+✓ 3670 modules transformed.
+rendering chunks...
+computing gzip size...
+../dist/public/index.html                     1.95 kB │ gzip:   0.74 kB
+../dist/public/assets/index-D5LQzhTB.css    101.80 kB │ gzip:  21.10 kB
+../dist/public/assets/index-fU6MhCQh.js   2,259.60 kB │ gzip: 605.00 kB
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 12.58s
+  dist/index.js  300.1kb
+⚡ Done in 20ms
+==> Uploading build...
+==> Uploaded in 9.6s. Compression took 7.0s
+==> Build successful 🎉
+==> Deploying...
+==> Running 'npm run start'
+> rest-express@1.0.0 start
+> NODE_ENV=production node dist/index.js
+==> Exited with status 1
+==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+Attempting to parse service account JSON...
+Error parsing Firebase service account JSON: SyntaxError: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at JSON.parse (<anonymous>)
+    at file:///opt/render/project/src/dist/index.js:2596:26
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+Service account length: 2440 characters
+First 100 chars of service account: {   \"type\": \"service_account\",   \"project_id\": \"sih-hackathon-77590\",   \"private_key_id\": 
+Last 100 chars of service account: k-fbsvc%40sih-hackathon-77590.iam.gserviceaccount.com\",   \"universe_domain\": \"googleapis.com\" }
+Warning: Firebase Admin initialization failed. Using stub implementation. Error: Invalid Firebase service account JSON: Expected property name or '}' in JSON at position 4 (line 1 column 5)
+    at file:///opt/render/project/src/dist/index.js:2607:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+CRITICAL: Firebase Admin failed to initialize in production. Stopping server.
+==> Running 'npm run start'
+> rest-express@1.0.0 start
+> NODE_ENV=production node dist/index.js

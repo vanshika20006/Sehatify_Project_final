@@ -1,0 +1,203 @@
+Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:06.960Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456bad9 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=q6pLKVkrGLjPdCk_37e3PmzEJCyq13uakP3ZaOCFdww&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=RUYLJht1DjZmCnpLDw3JcQ&AID=0&CI=0&TYPE=xmlhttp&zx=k1pij5zd9gad&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:07.032Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456bada transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=frbfATO9fztstqEr3N7I04v0YZdWybcyldWNcF6Lre0&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=kwMnij28lU5jOAkYqXCZ8Q&AID=0&CI=0&TYPE=xmlhttp&zx=snhx2dyd461o&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:07.864Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456badb transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+react-dom.development.js:798  Allow attribute will take precedence over 'allowfullscreen'.
+setValueForProperty @ react-dom.development.js:798
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=x4hx6i1bGdr_tqcEOGyBU10Q7t_7txnelVyWj1PdUpo&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=_hRxB9zNIgrspn34fVTpwA&AID=0&CI=0&TYPE=xmlhttp&zx=ipvjpmjgk59l&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:09.494Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456badc transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=4zMYjqN_7dy_pZIZb-yOfwaIiBfH-IQuuUxvtPIb9Io&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=4t5IG3LWAfbf4fblG9HWOw&AID=0&CI=0&TYPE=xmlhttp&zx=9vnc7irk2hhh&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:12.639Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456badd transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=ywhlNRF9vtvvReCC_Hsfgb_ELl3mC1vt69tE1W6mzQY&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=uTmIhr-6Sy1H5dXNTNrDUw&AID=0&CI=0&TYPE=xmlhttp&zx=m6q1botzm0pe&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:15.027Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456bade transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+/api/uploads:1   Failed to load resource: the server responded with a status of 400 (Bad Request)
+ai-doctor.tsx:333  File upload error: Error: Upload failed
+    at handleFileUpload (ai-doctor.tsx:330:15)
+handleFileUpload @ ai-doctor.tsx:333
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=FRVFs1Yhp-21jI8fcld9Gbs2VwAP01UtB_aSS7Y9xS4&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=atTppuyTY0ae9HGzkIxZaA&AID=0&CI=0&TYPE=xmlhttp&zx=du8c70mo5dsp&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:18.099Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456badf transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=M4LYZ_jWC1wz6FAyXOUt-y9dITlyfFurQ5ZrwJSXmsI&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=sQ1REX1LCj5zheyrh8UFJg&AID=0&CI=0&TYPE=xmlhttp&zx=v7nfe7uckxw9&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:23.160Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456bae0 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=15EYZkeNpvfzXjyqhVBjUL5J-PmR5zg-1uWwa4VxpUY&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=QP9HG1Qwzrj2UOEiiysKUg&AID=0&CI=0&TYPE=xmlhttp&zx=efcrxcej9jcz&t=1:1   Failed to load resource: the server responded with a status of 400 ()
+logger.ts:115  [2025-09-17T12:29:40.676Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456bae1 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+webchannel_blob_es2018.js:52   GET https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=Tw18EurSZ6yRrDlzR7GIIWJmVGg2zs86A41BIyfuRgI&VER=8&database=projects%2Fsih-hackathon-77590%2Fdatabases%2F(default)&RID=rpc&SID=uSDXV5ctZnMYSu-U5IsDdg&AID=0&CI=0&TYPE=xmlhttp&zx=isnyxwj4rft8&t=1 net::ERR_ABORTED 400 (Bad Request)
+h.send @ webchannel_blob_es2018.js:52
+h.ea @ webchannel_blob_es2018.js:60
+Jb @ webchannel_blob_es2018.js:30
+fd @ webchannel_blob_es2018.js:76
+h.Fa @ webchannel_blob_es2018.js:75
+Da @ webchannel_blob_es2018.js:14
+Promise.then
+x2 @ webchannel_blob_es2018.js:14
+ec @ webchannel_blob_es2018.js:74
+Rb @ webchannel_blob_es2018.js:39
+M2.Y @ webchannel_blob_es2018.js:33
+M2.ca @ webchannel_blob_es2018.js:30
+ab @ webchannel_blob_es2018.js:25
+F2 @ webchannel_blob_es2018.js:23
+Wc @ webchannel_blob_es2018.js:62
+h.bb @ webchannel_blob_es2018.js:61
+h.Ea @ webchannel_blob_es2018.js:61
+Lc @ webchannel_blob_es2018.js:57
+h.Pa @ webchannel_blob_es2018.js:55
+Promise.then
+Nc @ webchannel_blob_es2018.js:55
+h.Sa @ webchannel_blob_es2018.js:55
+Promise.then
+h.send @ webchannel_blob_es2018.js:52
+h.ea @ webchannel_blob_es2018.js:60
+Jb @ webchannel_blob_es2018.js:29
+Hb @ webchannel_blob_es2018.js:28
+h.Ga @ webchannel_blob_es2018.js:72
+Da @ webchannel_blob_es2018.js:14
+Promise.then
+x2 @ webchannel_blob_es2018.js:14
+fc @ webchannel_blob_es2018.js:70
+h.connect @ webchannel_blob_es2018.js:68
+Y2.m @ webchannel_blob_es2018.js:82
+Yo @ webchannel_connection.ts:267
+send @ stream_bridge.ts:70
+q_ @ persistent_stream.ts:322
+Y_ @ persistent_stream.ts:692
+__PRIVATE_sendWatchRequest @ remote_store.ts:348
+(anonymous) @ remote_store.ts:417
+__PRIVATE_onWatchStreamOpen @ remote_store.ts:416
+(anonymous) @ persistent_stream.ts:528
+(anonymous) @ persistent_stream.ts:595
+(anonymous) @ async_queue_impl.ts:136
+(anonymous) @ async_queue_impl.ts:187
+Promise.then
+cc @ async_queue_impl.ts:185
+enqueue @ async_queue_impl.ts:130
+enqueueAndForget @ async_queue_impl.ts:94
+(anonymous) @ persistent_stream.ts:593
+(anonymous) @ persistent_stream.ts:508
+__ @ stream_bridge.ts:86
+(anonymous) @ webchannel_connection.ts:431
+setTimeout
+T_ @ webchannel_connection.ts:426
+j_ @ persistent_stream.ts:656
+G_ @ persistent_stream.ts:503
+(anonymous) @ persistent_stream.ts:477
+Promise.then
+auth @ persistent_stream.ts:467
+start @ persistent_stream.ts:264
+(anonymous) @ persistent_stream.ts:561
+(anonymous) @ backoff.ts:137
+(anonymous) @ async_queue.ts:196
+(anonymous) @ async_queue_impl.ts:136
+(anonymous) @ async_queue_impl.ts:187
+Promise.then
+cc @ async_queue_impl.ts:185
+enqueue @ async_queue_impl.ts:130
+enqueueAndForget @ async_queue_impl.ts:94
+handleDelayElapsed @ async_queue.ts:193
+(anonymous) @ async_queue.ts:160
+logger.ts:115  [2025-09-17T12:30:03.371Z]  @firebase/firestore: Firestore (12.2.0): WebChannelConnection RPC 'Listen' stream 0x7456bae2 transport errored. Name: undefined Message: undefined
+defaultLogHandler @ logger.ts:115
+warn @ logger.ts:206
+__PRIVATE_logWarn @ log.ts:69
+(anonymous) @ webchannel_connection.ts:335
+(anonymous) @ webchannel_connection.ts:301
+ab @ webchannel_blob_es2018.js:25
+F2 @ webchannel_blob_es2018.js:23
+Z2.sa @ webchannel_blob_es2018.js:85
+R @ webchannel_blob_es2018.js:78
+Ub @ webchannel_blob_es2018.js:77
+Qb @ webchannel_blob_es2018.js:36
+M2.Y @ webchannel_blob_es2018.js:34
+M2.ca @ webchannel_blob_es2018.js:30
+ab @ webchannel_blob_es2018.js:25
+F2 @ webchannel_blob_es2018.js:23
+Wc @ webchannel_blob_es2018.js:62
+h.bb @ webchannel_blob_es2018.js:61
+h.Ea @ webchannel_blob_es2018.js:61
+Lc @ webchannel_blob_es2018.js:57
+h.Pa @ webchannel_blob_es2018.js:55
+Promise.then
+Nc @ webchannel_blob_es2018.js:55
+h.Sa @ webchannel_blob_es2018.js:55
+Promise.then
+h.send @ webchannel_blob_es2018.js:52
+h.ea @ webchannel_blob_es2018.js:60
+Jb @ webchannel_blob_es2018.js:30
+fd @ webchannel_blob_es2018.js:76
+h.Fa @ webchannel_blob_es2018.js:75
+Da @ webchannel_blob_es2018.js:14
+Promise.then
+x2 @ webchannel_blob_es2018.js:14
+ec @ webchannel_blob_es2018.js:74
+Rb @ webchannel_blob_es2018.js:39
+M2.Y @ webchannel_blob_es2018.js:33
+M2.ca @ webchannel_blob_es2018.js:30
+ab @ webchannel_blob_es2018.js:25
+F2 @ webchannel_blob_es2018.js:23
+Wc @ webchannel_blob_es2018.js:62
+h.bb @ webchannel_blob_es2018.js:61
+h.Ea @ webchannel_blob_es2018.js:61
+Lc @ webchannel_blob_es2018.js:57
+h.Pa @ webchannel_blob_es2018.js:55
+Promise.then
+Nc @ webchannel_blob_es2018.js:55
+h.Sa @ webchannel_blob_es2018.js:55
+Promise.then
+h.send @ webchannel_blob_es2018.js:52
+h.ea @ webchannel_blob_es2018.js:60
+Jb @ webchannel_blob_es2018.js:29
+Hb @ webchannel_blob_es2018.js:28
+h.Ga @ webchannel_blob_es2018.js:72
+Da @ webchannel_blob_es2018.js:14
+Promise.then
+x2 @ webchannel_blob_es2018.js:14
+fc @ webchannel_blob_es2018.js:70
+h.connect @ webchannel_blob_es2018.js:68
+Y2.m @ webchannel_blob_es2018.js:82
+Yo @ webchannel_connection.ts:267
+send @ stream_bridge.ts:70
+q_ @ persistent_stream.ts:322
+Y_ @ persistent_stream.ts:692
+__PRIVATE_sendWatchRequest @ remote_store.ts:348
+(anonymous) @ remote_store.ts:417
+__PRIVATE_onWatchStreamOpen @ remote_store.ts:416
+(anonymous) @ persistent_stream.ts:528
+(anonymous) @ persistent_stream.ts:595
+(anonymous) @ async_queue_impl.ts:136
+(anonymous) @ async_queue_impl.ts:187
+Promise.then
+cc @ async_queue_impl.ts:185
+enqueue @ async_queue_impl.ts:130
+enqueueAndForget @ async_queue_impl.ts:94
+(anonymous) @ persistent_stream.ts:593
+(anonymous) @ persistent_stream.ts:508
+__ @ stream_bridge.ts:86
+(anonymous) @ webchannel_connection.ts:431
+setTimeout
+T_ @ webchannel_connection.ts:426
+j_ @ persistent_stream.ts:656
+G_ @ persistent_stream.ts:503
+(anonymous) @ persistent_stream.ts:477
+Promise.then
+auth @ persistent_stream.ts:467
+start @ persistent_stream.ts:264
+(anonymous) @ persistent_stream.ts:561
+(anonymous) @ backoff.ts:137
+(anonymous) @ async_queue.ts:196
+(anonymous) @ async_queue_impl.ts:136
+(anonymous) @ async_queue_impl.ts:187
+Promise.then
+cc @ async_queue_impl.ts:185
+enqueue @ async_queue_impl.ts:130
+enqueueAndForget @ async_queue_impl.ts:94
+handleDelayElapsed @ async_queue.ts:193
+(anonymous) @ async_queue.ts:160

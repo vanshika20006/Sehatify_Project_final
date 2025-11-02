@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Maharaja Yeshwantrao Hospital (MYH)",
+    "type": "Government",
+    "notes": "Teaching & tertiary care hospital (MGM Medical College)."
+  },
+  {
+    "name": "Chacha Nehru Bal Chikitsalaya",
+    "type": "Government",
+    "notes": "Pediatric hospital attached to MYH campus."
+  },
+  {
+    "name": "Government Cancer Hospital",
+    "type": "Government",
+    "notes": "Oncology services."
+  },
+  {
+    "name": "Indore District Hospital",
+    "type": "Government",
+    "notes": "General services."
+  },
+  {
+    "name": "LNCT Medical College & Sewakunj Hospital",
+    "type": "Govt + Pvt",
+    "notes": "Medical college + hospital with private affiliation."
+  },
+  {
+    "name": "Aditya Lifeline Hospital",
+    "type": "Private",
+    "notes": "Usha Nagar"
+  },
+  {
+    "name": "Alhayat Hospital",
+    "type": "Private",
+    "notes": "Khajrana Main Road"
+  },
+  {
+    "name": "Anand Hospital & Research Center",
+    "type": "Private",
+    "notes": "Sindhu Nagar, Bhanwar Kuan Road"
+  },
+  {
+    "name": "Apollo Hospitals",
+    "type": "Private",
+    "notes": "Vijay Nagar (Scheme No 74C, Sector D)"
+  },
+  {
+    "name": "Apple Hospital",
+    "type": "Private",
+    "notes": "Bhawarkuan Main Road, Transport Nagar"
+  },
+  {
+    "name": "Asian Institute of Infertility Center",
+    "type": "Private",
+    "notes": "LIG Circle"
+  },
+  {
+    "name": "Bhandari Hospital & Research Center",
+    "type": "Private",
+    "notes": "Scheme No. 54, Vijay Nagar"
+  },
+  {
+    "name": "Bombay Hospital",
+    "type": "Private",
+    "notes": "Ring Road, Vijay Nagar"
+  },
+  {
+    "name": "CHL Hospitals / Convenient Hospitals Ltd",
+    "type": "Private",
+    "notes": "AB Road, near LIG Square"
+  },
+  {
+    "name": "Choithram Hospital & Research Centre",
+    "type": "Private",
+    "notes": "Mainak Bagh Road"
+  },
+  {
+    "name": "City Hospital & Research Centre",
+    "type": "Private",
+    "notes": "Anaj Mandi (Malwa Mill Chauraha)"
+  },
+  {
+    "name": "City Nursing Home",
+    "type": "Private",
+    "notes": "Jawahar Marg"
+  },
+  {
+    "name": "Crystal Lithotripsy",
+    "type": "Private",
+    "notes": "Old Palasia"
+  },
+  {
+    "name": "Eureka Hospital & Research Centre",
+    "type": "Private",
+    "notes": "Old Palasia"
+  },
+  {
+    "name": "Global SNG Hospital",
+    "type": "Private",
+    "notes": "Kanchan Bag Main Road"
+  },
+  {
+    "name": "Gokuldas Hospitals Ltd",
+    "type": "Private",
+    "notes": "Dr Sarju Prasad Marg"
+  },
+  {
+    "name": "Greater Kailash Hospital",
+    "type": "Private",
+    "notes": "Old Palasia"
+  },
+  {
+    "name": "Gurjar Hospital & Endoscopy Centre Pvt Ltd",
+    "type": "Private",
+    "notes": "Bhanwar, Scheme No 44-B"
+  },
+  {
+    "name": "Indore Eye Hospital",
+    "type": "Private",
+    "notes": "Dhar Road"
+  },
+  {
+    "name": "KD Care Hospital",
+    "type": "Private",
+    "notes": "Saket Nagar"
+  },
+  {
+    "name": "Khandelwal Hospital & Nursing Home",
+    "type": "Private",
+    "notes": "Sudama Nagar"
+  },
+  {
+    "name": "Lahoti Medicare Pvt Ltd",
+    "type": "Private",
+    "notes": "Old Palasia"
+  },
+  {
+    "name": "Life Care Hospital",
+    "type": "Private",
+    "notes": "Vijay Nagar"
+  },
+  {
+    "name": "Malwa Hospital & Research Centre",
+    "type": "Private",
+    "notes": "Bijasan Road"
+  },
+  {
+    "name": "Mayank Hospital",
+    "type": "Private",
+    "notes": "Manorma Ganj"
+  },
+  {
+    "name": "Mayur Hospital & Research Centre",
+    "type": "Private",
+    "notes": "Ring Road"
+  },
+  {
+    "name": "Medisquare Hospital Pvt Ltd",
+    "type": "Private",
+    "notes": "A B Road, Bhawar Kuan Charaha"
+  },
+  {
+    "name": "Mohak Hi Tech Speciality Hospital",
+    "type": "Private",
+    "notes": "Ujjain Road"
+  },
+  {
+    "name": "Nahar Hospital",
+    "type": "Private",
+    "notes": "Sukhliya Circle"
+  },
+  {
+    "name": "Neema Hospitals Pvt Ltd (Unique Superspeciality Centre)",
+    "type": "Private",
+    "notes": "Opp Dashehara Maidan, Annapurna Road"
+  },
+  {
+    "name": "New Delhi Centre For Sight",
+    "type": "Private",
+    "notes": "Vijay Nagar"
+  },
+  {
+    "name": "Nirmal Hospital",
+    "type": "Private",
+    "notes": "Shikshak Nagar"
+  },
+  {
+    "name": "Noble Hospital",
+    "type": "Private",
+    "notes": "South Tukoganj"
+  },
+  {
+    "name": "Pooja Hospital",
+    "type": "Private",
+    "notes": "Annapurna Road (near Annapurna Temple)"
+  },
+  {
+    "name": "Rajas Eye & Retina Research Centre",
+    "type": "Private",
+    "notes": "Kanchan Bag"
+  },
+  {
+    "name": "RLB Hospital & Research Centre",
+    "type": "Private",
+    "notes": "Sector C, Scheme No 71"
+  },
+  {
+    "name": "Sahaj Hospitals Endoscopic Super Speciality Center Pvt Ltd",
+    "type": "Private",
+    "notes": "South Tukoganj"
+  },
+  {
+    "name": "Saluja Eye Care Centre",
+    "type": "Private",
+    "notes": "Bombay Hospital Link, Scheme 54"
+  },
+  {
+    "name": "Sarvoday Nursing Home",
+    "type": "Private",
+    "notes": "New Palasia"
+  },
+  {
+    "name": "Shakuntala Devi Hospital & Research Centre",
+    "type": "Private",
+    "notes": "Goyal Nagar, Ishkripa Garden Road"
+  },
+  {
+    "name": "Shashi Nursing Home",
+    "type": "Private",
+    "notes": "Raghuvanshi Colony"
+  },
+  {
+    "name": "Sri Aurobindo Institute of Medical Sciences",
+    "type": "Private",
+    "notes": "Ujjain Road, near MR-10 Crossing, Sanwer Road"
+  },
+  {
+    "name": "Suyog Hospital Pvt Ltd",
+    "type": "Private",
+    "notes": "Bhawarkua Main Road"
+  },
+  {
+    "name": "Synergy Hospital",
+    "type": "Private",
+    "notes": "Vijay Nagar, Scheme No. 74-C, Sector B"
+  },
+  {
+    "name": "The Recovery Hospital",
+    "type": "Private",
+    "notes": "New Palasia"
+  },
+  {
+    "name": "Unique Hospital",
+    "type": "Private",
+    "notes": "Jawahar Marg"
+  },
+  {
+    "name": "Vasan Eye Care Hospital",
+    "type": "Private",
+    "notes": "Diamond Colony, Janjeerwala Square"
+  },
+  {
+    "name": "Vision Centre",
+    "type": "Private",
+    "notes": "RNT Marg"
+  }
+]

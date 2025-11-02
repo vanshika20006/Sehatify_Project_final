@@ -1,0 +1,63 @@
+Core features (must-have for MVP)
+
+Map with multi-layer visualization
+
+Choropleth for area-level rates (cases per 1,000), heatmap for density, and clustered pins for individual reports.
+
+Separate color per disease + intensity
+
+Distinct hue per disease; saturation/opacity indicates case count or severity.
+
+Search & autocomplete
+
+Search by disease name (and synonyms), symptom, or place name. Fuzzy matching & auto-suggest.
+
+Live location fetching
+
+Browser Geolocation API with clear permission UI. Option: compute risk locally and send only coarse geohash to server.
+
+Time slider / play animation
+
+Browse historical spread; animate to show propagation.
+
+Source & confidence
+
+Each data point/area shows source badges (official lab, hospital, user report, news) and a computed confidence score.
+
+Report a case / participatory reporting
+
+Users can report symptoms/cases (with consent), optionally upload a photo/report ID; rate-limited and moderated.
+
+Alerts & push notifications
+
+Area-based opt-in alerts (new hotspot, sudden increases).
+
+Admin dashboard
+
+Validate/flag reports, edit source weights, set aggregation thresholds, publish official advisories.
+
+Advanced features (phase 2+)
+
+Hotspot detection (automated) using KDE or spatial statistics (Getis-Ord Gi*) and trend detection (z-score over sliding window).
+
+Predictive risk index combining case counts, population density, vaccination rates, mobility.
+
+Layer toggles: official lab-confirmed, syndromic (ED) data, participatory reports, news-derived signals.
+
+Embeddable map widgets & APIs for local health departments.
+
+Exportable data (CSV / GeoJSON) with aggregation controls for research.
+
+UX & UI specifics (practical)
+
+Top bar: disease selector (multi-select) + time-range picker + search box (place/disease).
+
+Left panel (collapsible): legend, top affected areas, quick stats (cases, incidence rate, new cases today), list of recent reports with source badges.
+
+Map controls: toggle layers (choropleth / heatmap / pins), cluster radius slider, opacity slider, time-play controls.
+
+Tooltip on hover: area name, incidence rate, 7-day trend sparkline, top symptoms, sources & confidence.
+
+Drill-down modal: when clicking an area — show timeline, demographics, nearest care centers, official guidance, “report” button.
+
+Accessibility: keyboard navigation, colorblind-safe palette (use qualitative palettes and glyphs), ARIA labels, readable font sizes.

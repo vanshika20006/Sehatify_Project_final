@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Indian Red Cross Society Blood Bank, Chhawni",
+    "type": "Blood Bank",
+    "address": "Near Agarwal Kanya Vidyalaya, Chhawni, Indore",
+    "phone": "0731-4933101 / 9993636700",
+    "notes": "Main Red Cross branch in Indore"  
+  },
+  {
+    "name": "Shri Satya Sai Blood Bank",
+    "type": "Blood Bank",
+    "address": "Sai Aradhna, 64 Mahavir Nagar, Kanaria Road, Indore – 452016",
+    "phone": "0731-2590737",
+    "notes": "Private blood bank"
+  },
+  {
+    "name": "Aruvindo Blood Banks SAIMS Hospital",
+    "type": "Blood Bank",
+    "address": "Indore-Ujjain State Highway, Near MR-10 Crossing, Indore",
+    "notes": "Hospital blood bank"
+  },
+  {
+    "name": "CHL Apollo Hospital Blood Bank",
+    "type": "Blood Bank",
+    "address": "Scheme No. 74 C, Sector D, Vijay Nagar, Indore – 452010",
+    "phone": "0731-2445566",
+    "notes": "24×7 service"
+  },
+  {
+    "name": "Gokuldas Hospital Blood Bank",
+    "type": "Blood Bank",
+    "address": "11, Sarju Prasad Marg, Indore – 452001",
+    "phone": "0731-2519212",
+    "notes": "Multi-speciality hospital blood bank"
+  },
+  {
+    "name": "Varma Union Blood Bank",
+    "type": "Blood Bank",
+    "address": "120, Dhar Road, Near Labhriya Bheru, opposite Kastur Cinema, Gangwal Bus Stand, Indore – 452001",
+    "phone": "09302106223",
+    "notes": "24-hour blood bank"
+  },
+  {
+    "name": "Shubham Blood Bank",
+    "type": "Blood Bank",
+    "address": "51, Shri Nagar Extension, Khajrana Road, near SNS (Royal Care Hospital), Indore – 452016",
+    "phone": "0731-2563202 / 98273-33573",
+    "notes": "Offers all blood components etc."
+  },
+  {
+    "name": "Lions Club Of Indore Blood Bank",
+    "type": "Blood Bank",
+    "address": "East 9, Premkumari Hospital, Biyabani, Indore – 452002",
+    "notes": ""
+  },
+  {
+    "name": "Apollo Hospitals Indore Blood Bank",
+    "type": "Blood Bank",
+    "address": "Apollo Hospitals, Vijay Nagar, Indore",
+    "phone": "91 8069991084",
+    "notes": "Transfusion dept; 24×7; component separation"
+  },
+  {
+    "name": "Index Medical College Hospital & Research Centre Blood Bank",
+    "type": "Blood Bank",
+    "address": "104, Trishul Apartment, 5, Sanghi Colony, Opposite Amaltas Hotel, A.B. Road, Indore – 462008",
+    "phone": "0731-4215757 / 9752538454",
+    "notes": ""
+  },
+  {
+    "name": "Vishnuprabha Diagnostic Centre & Blood Bank",
+    "type": "Blood Bank",
+    "address": "3/2, South Tukoganj, Behind Hotel Balwas International, Indore – 452001",
+    "notes": ""
+  },
+  {
+    "name": "Anand Hospital & Research Centre Blood Bank",
+    "type": "Blood Bank",
+    "address": "7, Sindhu Nagar, Bhanwar Kuan, Main Road, Indore – 452002",
+    "notes": ""
+  },
+  {
+    "name": "Allied Pathology Lab & Blood Bank",
+    "type": "Blood Bank",
+    "address": "5, Sanghi Colony, Trishul Building, A B Road, Indore – 452001",
+    "notes": ""
+  },
+  {
+    "name": "Noble Path Lab & Blood Bank",
+    "type": "Blood Bank",
+    "address": "South Tukoganj Road, Indore – 452001",
+    "notes": ""
+  },
+  {
+    "name": "Shrisatyasai Blood Bank Trust",
+    "type": "Blood Bank",
+    "address": "64, Mahavir Nagar, Indore – 452001",
+    "notes": ""
+  }
+]
